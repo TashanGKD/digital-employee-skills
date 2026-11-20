@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1760" height="1370" viewBox="0 0 1760 1370">
+<rect x="0" y="0" width="1760" height="1370" rx="0" fill="#F6FAFA" stroke="#F6FAFA" stroke-width="2"/>
+<text x="48" y="64" font-family="Noto Sans SC" font-size="38" font-weight="700" fill="#18383D">一个数字员工的内部结构</text>
+<text x="48" y="105" font-family="Noto Sans SC" font-size="25" font-weight="400" fill="#4E6A6F">共同方法负责怎样工作，岗位资料接续自己承担的责任。</text>
+<rect x="42" y="145" width="1225" height="932" rx="30" fill="#EDF6F6" stroke="#4FA8AA" stroke-width="3"/>
+<rect x="66" y="165" width="760" height="56" rx="28" fill="#4FA8AA" stroke="#4FA8AA" stroke-width="2"/>
+<text x="92" y="202" font-family="Noto Sans SC" font-size="29" font-weight="600" fill="#FFFFFF">员工＝原长期 Codex 对话＋持续责任</text>
+<text x="100" y="251" font-family="Noto Sans SC" font-size="23" font-weight="400" fill="#18383D">同一段历史、同一岗位；接住责任后推进到真实交付与接续。</text>
+<rect x="100" y="278" width="1100" height="98" rx="18" fill="#FFFFFF" stroke="#8BBFC0" stroke-width="2"/>
+<text x="122" y="314" font-family="Noto Sans SC" font-size="26" font-weight="600" fill="#18383D">ROLE｜身份 · 职责 · 授权 · 关系</text>
+<text x="122" y="349" font-family="Noto Sans SC" font-size="22" font-weight="400" fill="#4E6A6F">服务谁、负责什么、可以做什么、与谁协作；岗位例外沿原记录保留。</text>
+<polyline points="404,376 404,419" fill="none" stroke="#4FA8AA" stroke-width="3"/>
+<polygon points="404.0,419.0 398.0,409.0 410.0,409.0" fill="#4FA8AA"/>
+<text x="425" y="408" font-family="Noto Sans SC" font-size="20" font-weight="400" fill="#48787B">读取 · 判断</text>
+<rect x="100" y="434" width="645" height="382" rx="28" fill="#DCEEEE" stroke="#4FA8AA" stroke-width="3"/>
+<text x="124" y="474" font-family="Noto Sans SC" font-size="27" font-weight="600" fill="#18383D">digital-employee｜共同方法内核</text>
+<text x="124" y="508" font-family="Noto Sans SC" font-size="21" font-weight="400" fill="#4E6A6F">工作方法，由原对话采用；不另起模型进程</text>
+<rect x="128" y="548" width="250" height="83" rx="40" fill="#FFFFFF" stroke="#8BBFC0" stroke-width="2"/>
+<text x="149" y="581" font-family="Noto Sans SC" font-size="24" font-weight="600" fill="#18383D">理解情境与责任</text>
+<text x="149" y="610" font-family="Noto Sans SC" font-size="19" font-weight="400" fill="#4E6A6F">先核原始要求与依据</text>
+<rect x="408" y="548" width="305" height="83" rx="40" fill="#FFFFFF" stroke="#8BBFC0" stroke-width="2"/>
+<text x="429" y="581" font-family="Noto Sans SC" font-size="24" font-weight="600" fill="#18383D">自行推进 / 排障</text>
+<text x="429" y="610" font-family="Noto Sans SC" font-size="19" font-weight="400" fill="#4E6A6F">选择有价值的下一步</text>
+<rect x="408" y="682" width="305" height="83" rx="40" fill="#FFFFFF" stroke="#8BBFC0" stroke-width="2"/>
+<text x="429" y="715" font-family="Noto Sans SC" font-size="24" font-weight="600" fill="#18383D">交付核验</text>
+<text x="429" y="744" font-family="Noto Sans SC" font-size="19" font-weight="400" fill="#4E6A6F">实看结果与原生回执</text>
+<rect x="128" y="682" width="250" height="83" rx="40" fill="#FFFFFF" stroke="#8BBFC0" stroke-width="2"/>
+<text x="149" y="715" font-family="Noto Sans SC" font-size="24" font-weight="600" fill="#18383D">记录接续</text>
+<text x="149" y="744" font-family="Noto Sans SC" font-size="19" font-weight="400" fill="#4E6A6F">补原笔记，接住反馈</text>
+<polyline points="378,590 408,590" fill="none" stroke="#4FA8AA" stroke-width="3"/>
+<polygon points="408.0,590.0 398.0,584.0 398.0,596.0" fill="#4FA8AA"/>
+<polyline points="559,631 559,682" fill="none" stroke="#4FA8AA" stroke-width="3"/>
+<polygon points="559.0,682.0 553.0,672.0 565.0,672.0" fill="#4FA8AA"/>
+<polyline points="408,724 378,724" fill="none" stroke="#4FA8AA" stroke-width="3"/>
+<polygon points="378.0,724.0 388.0,718.0 388.0,730.0" fill="#4FA8AA"/>
+<polyline points="128,724 112,724 112,590 128,590" fill="none" stroke="#4FA8AA" stroke-width="3"/>
+<polygon points="128.0,590.0 118.0,584.0 118.0,596.0" fill="#4FA8AA"/>
+<polyline points="419,816 419,867" fill="none" stroke="#4FA8AA" stroke-width="3"/>
+<polygon points="419.0,867.0 413.0,857.0 425.0,857.0" fill="#4FA8AA"/>
+<text x="440" y="849" font-family="Noto Sans SC" font-size="20" font-weight="400" fill="#48787B">按需调用</text>
+<rect x="100" y="881" width="645" height="132" rx="21" fill="#FFFFFF" stroke="#8BBFC0" stroke-width="2"/>
+<text x="124" y="922" font-family="Noto Sans SC" font-size="27" font-weight="600" fill="#18383D">岗位专业 Skill</text>
+<text x="124" y="963" font-family="Noto Sans SC" font-size="22" font-weight="400" fill="#18383D">科研 / 秘书 / 会务 / BP 等，按当前任务选择</text>
+<text x="124" y="994" font-family="Noto Sans SC" font-size="20" font-weight="400" fill="#4E6A6F">专业方法叠加于共同工作方法之上</text>
+<path d="M850 421 L850 402 L992 402 L1014 421 L1220 421 L1220 1027 L850 1027 Z" fill="#F8FCFC" stroke="#8BBFC0" stroke-width="2"/>
+<text x="873" y="458" font-family="Noto Sans SC" font-size="25" font-weight="600" fill="#18383D">自己的工作资料 / 记事本</text>
+<polygon points="873,479 1174,479 1198,503 1198,570 873,570" fill="#FFFFFF" stroke="#9CBFC0" stroke-width="2"/>
+<polyline points="1174,479 1174,503 1198,503" fill="none" stroke="#9CBFC0" stroke-width="2"/>
+<text x="891" y="511" font-family="Noto Sans SC" font-size="24" font-weight="600" fill="#18383D">workbook｜逐件责任</text>
+<text x="891" y="540" font-family="Noto Sans SC" font-size="20" font-weight="400" fill="#18383D">来源 · 判断 · 过程 · 下一步</text>
+<polygon points="873,601 1174,601 1198,625 1198,684 873,684" fill="#FFFFFF" stroke="#9CBFC0" stroke-width="2"/>
+<polyline points="1174,601 1174,625 1198,625" fill="none" stroke="#9CBFC0" stroke-width="2"/>
+<text x="891" y="633" font-family="Noto Sans SC" font-size="24" font-weight="600" fill="#18383D">CURRENT｜当前总览</text>
+<text x="891" y="662" font-family="Noto Sans SC" font-size="20" font-weight="400" fill="#18383D">从原工作笔记摘要派生</text>
+<polyline points="1040,570 1040,601" fill="none" stroke="#4FA8AA" stroke-width="3"/>
+<polygon points="1040.0,601.0 1034.0,591.0 1046.0,591.0" fill="#4FA8AA"/>
+<polygon points="873,707 1174,707 1198,731 1198,798 873,798" fill="#FFFFFF" stroke="#9CBFC0" stroke-width="2"/>
+<polyline points="1174,707 1174,731 1198,731" fill="none" stroke="#9CBFC0" stroke-width="2"/>
+<text x="891" y="739" font-family="Noto Sans SC" font-size="24" font-weight="600" fill="#18383D">STATE｜运行事实</text>
+<text x="891" y="768" font-family="Noto Sans SC" font-size="20" font-weight="400" fill="#18383D">真实来源 / 读位 / 工具 / 回执</text>
+<polygon points="873,819 1174,819 1198,843 1198,900 873,900" fill="#FFFFFF" stroke="#9CBFC0" stroke-width="2"/>
+<polyline points="1174,819 1174,843 1198,843" fill="none" stroke="#9CBFC0" stroke-width="2"/>
+<text x="891" y="851" font-family="Noto Sans SC" font-size="24" font-weight="600" fill="#18383D">JOURNAL｜岗位变化</text>
+<text x="891" y="880" font-family="Noto Sans SC" font-size="20" font-weight="400" fill="#18383D">岗位级过程与修改原因</text>
+<polygon points="873,921 1174,921 1198,945 1198,1002 873,1002" fill="#FFFFFF" stroke="#9CBFC0" stroke-width="2"/>
+<polyline points="1174,921 1174,945 1198,945" fill="none" stroke="#9CBFC0" stroke-width="2"/>
+<text x="891" y="953" font-family="Noto Sans SC" font-size="24" font-weight="600" fill="#18383D">经验｜带条件的案例</text>
+<text x="891" y="982" font-family="Noto Sans SC" font-size="20" font-weight="400" fill="#18383D">有真实反馈才局部修正</text>
+<polyline points="873,526 785,526 785,559 745,559" fill="none" stroke="#4FA8AA" stroke-width="3"/>
+<polygon points="745.0,559.0 755.0,553.0 755.0,565.0" fill="#4FA8AA"/>
+<text x="753" y="513" font-family="Noto Sans SC" font-size="20" font-weight="400" fill="#48787B">读取</text>
+<polyline points="745,760 815,760 815,550 873,550" fill="none" stroke="#4FA8AA" stroke-width="3"/>
+<polygon points="873.0,550.0 863.0,544.0 863.0,556.0" fill="#4FA8AA"/>
+<polyline points="815,752 873,752" fill="none" stroke="#4FA8AA" stroke-width="3"/>
+<polygon points="873.0,752.0 863.0,746.0 863.0,758.0" fill="#4FA8AA"/>
+<text x="752" y="791" font-family="Noto Sans SC" font-size="20" font-weight="400" fill="#48787B">记录</text>
+<text x="874" y="1056" font-family="Noto Sans SC" font-size="20" font-weight="400" fill="#4E6A6F">资料分工示意，沿已有记录接续</text>
+<rect x="1363" y="277" width="350" height="190" rx="23" fill="#FFFFFF" stroke="#8BBFC0" stroke-width="2"/>
+<circle cx="1390" cy="309" r="17" fill="#DCEEEE"/>
+<text x="1379" y="316" font-family="Noto Sans SC" font-size="17" font-weight="600" fill="#376F73">01</text>
+<text x="1417" y="318" font-family="Noto Sans SC" font-size="25" font-weight="600" fill="#18383D">别的原员工</text>
+<text x="1383" y="357" font-family="Noto Sans SC" font-size="22" font-weight="400" fill="#18383D">codex-thread-handoff</text>
+<text x="1383" y="389" font-family="Noto Sans SC" font-size="21" font-weight="400" fill="#4E6A6F">传递交办 / 进展 / 成果</text>
+<text x="1383" y="421" font-family="Noto Sans SC" font-size="21" font-weight="400" fill="#4E6A6F">回到对方原长期对话</text>
+<rect x="1363" y="526" width="350" height="190" rx="23" fill="#FFFFFF" stroke="#8BBFC0" stroke-width="2"/>
+<circle cx="1390" cy="558" r="17" fill="#DCEEEE"/>
+<text x="1379" y="565" font-family="Noto Sans SC" font-size="17" font-weight="600" fill="#376F73">02</text>
+<text x="1417" y="567" font-family="Noto Sans SC" font-size="25" font-weight="600" fill="#18383D">AUP 官方微信 / SDK</text>
+<text x="1383" y="606" font-family="Noto Sans SC" font-size="22" font-weight="400" fill="#18383D">wechat-aup-control</text>
+<text x="1383" y="638" font-family="Noto Sans SC" font-size="21" font-weight="400" fill="#4E6A6F">wechat-write</text>
+<text x="1383" y="670" font-family="Noto Sans SC" font-size="21" font-weight="400" fill="#4E6A6F">小号 AUP＝当前主源</text>
+<rect x="1363" y="814" width="350" height="190" rx="23" fill="#FFFFFF" stroke="#8BBFC0" stroke-width="2"/>
+<circle cx="1390" cy="846" r="17" fill="#DCEEEE"/>
+<text x="1379" y="853" font-family="Noto Sans SC" font-size="17" font-weight="600" fill="#376F73">03</text>
+<text x="1417" y="855" font-family="Noto Sans SC" font-size="25" font-weight="600" fill="#18383D">组织共同记事本</text>
+<text x="1383" y="894" font-family="Noto Sans SC" font-size="22" font-weight="400" fill="#18383D">notebook-secretary</text>
+<text x="1383" y="926" font-family="Noto Sans SC" font-size="21" font-weight="400" fill="#4E6A6F">由专门维护员工连接</text>
+<text x="1383" y="958" font-family="Noto Sans SC" font-size="21" font-weight="400" fill="#4E6A6F">普通业务岗按关系参考</text>
+<polyline points="1267,354 1363,354" fill="none" stroke="#4FA8AA" stroke-width="3"/>
+<polygon points="1363.0,354.0 1353.0,348.0 1353.0,360.0" fill="#4FA8AA"/>
+<text x="1282" y="339" font-family="Noto Sans SC" font-size="20" font-weight="400" fill="#48787B">调用</text>
+<polyline points="1267,603 1363,603" fill="none" stroke="#4FA8AA" stroke-width="3"/>
+<polygon points="1363.0,603.0 1353.0,597.0 1353.0,609.0" fill="#4FA8AA"/>
+<text x="1282" y="588" font-family="Noto Sans SC" font-size="20" font-weight="400" fill="#48787B">调用</text>
+<polyline points="1363,889 1267,889" fill="none" stroke="#4FA8AA" stroke-width="3" stroke-dasharray="7 6"/>
+<polygon points="1267.0,889.0 1277.0,883.0 1277.0,895.0" fill="#4FA8AA"/>
+<text x="1278" y="874" font-family="Noto Sans SC" font-size="20" font-weight="400" fill="#48787B">参考</text>
+<rect x="1363" y="736" width="350" height="58" rx="10" fill="#F6FAFA" stroke="#BBD8D8" stroke-width="2"/>
+<text x="1379" y="760" font-family="Noto Sans SC" font-size="19" font-weight="400" fill="#18383D">wechat-local-read：独立补读</text>
+<text x="1379" y="784" font-family="Noto Sans SC" font-size="18" font-weight="400" fill="#4E6A6F">必要时另有授权；不替代当前主源</text>
+<text x="1382" y="1043" font-family="Noto Sans SC" font-size="19" font-weight="400" fill="#4E6A6F">组织本的写入由维护职责与授权约束</text>
+<rect x="42" y="1100" width="1671" height="166" rx="18" fill="#FFFFFF" stroke="#C9DEDE" stroke-width="2"/>
+<text x="66" y="1137" font-family="Noto Sans SC" font-size="23" font-weight="600" fill="#18383D">工作方式</text>
+<text x="210" y="1137" font-family="Noto Sans SC" font-size="22" font-weight="400" fill="#18383D">主动推进 / 按要求推进 / 等待反馈 / 等待来源条件 / 暂不主动推进 / 暂停</text>
+<text x="66" y="1179" font-family="Noto Sans SC" font-size="23" font-weight="600" fill="#18383D">原任务进度</text>
+<text x="237" y="1179" font-family="Noto Sans SC" font-size="22" font-weight="400" fill="#18383D">待推进 / 等反馈 / 先放放 / 已办好 / 不做了</text>
+<text x="912" y="1179" font-family="Noto Sans SC" font-size="21" font-weight="400" fill="#48787B">沿工作本保存；两维不替换</text>
+<text x="66" y="1228" font-family="Noto Sans SC" font-size="22" font-weight="400" fill="#4E6A6F">已承接任务要闭环；无任务可按岗位等待；明确暂停不擅自恢复。</text>
+<rect x="49" y="1295" width="32" height="21" rx="10" fill="#DCEEEE" stroke="#4FA8AA" stroke-width="2"/>
+<text x="93" y="1315" font-family="Noto Sans SC" font-size="20" font-weight="400" fill="#18383D">方法</text>
+<polygon points="210,1294 231,1294 241,1304 241,1318 210,1318" fill="#FFFFFF" stroke="#9CBFC0"/>
+<text x="253" y="1315" font-family="Noto Sans SC" font-size="20" font-weight="400" fill="#18383D">工作资料</text>
+<polyline points="386,1306 439,1306" fill="none" stroke="#4FA8AA" stroke-width="3"/>
+<polygon points="439.0,1306.0 429.0,1300.0 429.0,1312.0" fill="#4FA8AA"/>
+<text x="453" y="1315" font-family="Noto Sans SC" font-size="20" font-weight="400" fill="#18383D">读取 / 调用 / 记录</text>
+<polyline points="702,1306 756,1306" fill="none" stroke="#4FA8AA" stroke-width="3" stroke-dasharray="7 6"/>
+<polygon points="756.0,1306.0 746.0,1300.0 746.0,1312.0" fill="#4FA8AA"/>
+<text x="768" y="1315" font-family="Noto Sans SC" font-size="20" font-weight="400" fill="#18383D">关系参考</text>
+<text x="48" y="1351" font-family="Noto Sans SC" font-size="20" font-weight="400" fill="#5E777B">结构剖面示意｜2026-11-20，不代表每岗实际采用已验</text>
+</svg>

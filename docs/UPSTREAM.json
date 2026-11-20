@@ -1,0 +1,69 @@
+{
+  "sourceMethodVersion": "2026-11-20",
+  "edition": "public-portable",
+  "originalFileHashes": {
+    "digital-employee": {
+      "RELEASE.json": "c67c208418c316b11409f097b4fcf11e8e4aa9b0de04d87f7ef91ebb51a8c4df",
+      "SKILL.md": "8308959bc14d3738d23ea6345c292fbda34f8f4e70f16ca37a906aa55b841b8e",
+      "agents/openai.yaml": "cd1785af6af9ad17f582dd77742c953d182b98ffd7f6587ef1705142c61140fd",
+      "references/acceptance.md": "d12e21ea63f50a1c34381887b89127162087b75469e95b2231ebdeb336097077",
+      "references/collaboration.md": "b9e4bbd9106ec9d53be511b82c3aa4f6bfb55c1db98cd60869a2de0ecadbbae8",
+      "references/communication.md": "f0347522d35aaa53b0f8b59e41dd924184140b808eac8367fc575f1c46c34bb5",
+      "references/continuity.md": "a1818a6b6872b3f9c550ada2006fde496cc64967432f4a4b07092418bbb8034e",
+      "references/daily-review.md": "aae4964505d4e0b44b3c93d6c58a075fca6314dde6423c939de50ae2de637126",
+      "references/delivery.md": "c9a7d86a85bfeea2236de3b0eda798e3b08a364ae41726f6138a14f8edd98cd9",
+      "references/domain-profiles.md": "3467e123c1f089fd3d4d7a8ce281374838131e945a62083eece4a2d78612ff68",
+      "references/learning.md": "e08a67baeec957f73d816d543926048d8f50729787a2d7c79d24a7080bca66b9",
+      "references/mention-wake.md": "670f73a393c03f4a99fd524b952ff7d5d9fb301e95b8769a558aab312c21a980",
+      "references/method.md": "c61758b42eb992626f21dea0bf14bda218ea289ef8a070d0fb03017f3ffcc5e7",
+      "references/native-tool-recovery.md": "fcf608c64dfab4e72979c79a0fbf4f94365ef9661d98079716e48589b020cd59",
+      "references/new-workspace.md": "1b5457aa21039dfb25ad746e2aa8e122dd88f1d23e814bbf4dfed677aeb7c7e7",
+      "references/observation.md": "7608211cd7c30e5df46ed506a789e8785f3b7b8b2c244173f5eed3119c579856",
+      "references/operating-model.md": "3139869ed9cc3f5acc068a0616602e281d89eea7c3b2b54a76cac6ca17e86b54",
+      "references/release-notes.md": "abc3cbd62b962d827209ee11ca59d71bd56634794efdcf7b0008329b493abf2d",
+      "references/scheduling-history.md": "a398b6e03cac958f5a145343120947da771125932ee75d7b9c177c55e94c680f",
+      "references/system-onboarding.md": "bfc3790dfb3ee6966077d76c2c396046c917aa7f3c094ef9b691a8fcd4607b03",
+      "references/wake.md": "4362be099686e51d95468259d67f120292ceb48a154c4cedf6de7d21c15c4d22",
+      "references/wechat.md": "43e93b560f010ee901bc7bcfabe4d6bee06952734084138f043101edefcfa4ce",
+      "references/workbook.md": "12d8785a685ada04c18a73676b3b5fcb6bfbfe9d166cfa77b826f99eecbf2bf8",
+      "references/working-habits.md": "b8b474d3682d90af5656399b88c1596345698b542905eb0c9c53c8dcb7ce16eb",
+      "scripts/check_method.py": "e467aa320a617405c2951c27f4e63e100a2d642cb540eba01fcd29bdebaeab92",
+      "scripts/check_method.self-test.sh": "82ac2a66a476ecbeddbe6e0712d14b7888cf51c1032b7347b2f06cf25f5adcee",
+      "scripts/test_check_method.py": "4f8b8d7009707f3eb0d639a43983398ab7f467b0a87bc0f45569d8f2dd18842a",
+      "scripts/workbook.py": "12483c50709a3e1faa15215fff2ae2271b13f4d1e1ecf054f43df4d428bc9151",
+      "templates/heartbeat-prompt.md": "66dcbb7b891885fbae2429317468fee894ef5bd50d493797bd82104fff7381ee",
+      "templates/new-employee/AGENTS.template.md": "6ce636921816e49acdcbb2dd22cc5d13f7c9c76bbef9427afa166bb8f1b0a57c",
+      "templates/new-employee/JOURNAL.template.md": "2661cea42b273938eac206ef4374bdfda3cc2d76d6b4d6d7554be4af9c36cb82",
+      "templates/new-employee/ROLE.template.md": "565d3ca04a94da511f99ccbccd251525c50d3e6d89243e89230549ca45a602da",
+      "templates/new-employee/STATE.template.json": "4fc183ff9c47ac68856524cf220110768d5643a44ff7f915ad770440df9acae9",
+      "templates/new-employee/experience-case.template.md": "6f0e319e12f67700ba5e1228a78da0cce5b09709aac0d13f921e0bd73d39a199",
+      "templates/new-employee/experience-index.template.md": "af7841ee276d43704ee45289991896ea837d81b9b28cc94bbe5a44a069df36ce",
+      "templates/new-employee/work-item.template.md": "b30867c8d49b331653051fe1636e094116a556bf5c0fb0034819acf213c06292"
+    },
+    "codex-thread-handoff": {
+      "SKILL.md": "22e41166b1fc06afeb7ba8a21ccbb071f9a164adff2e4a076a5e4cf95ccffc2b",
+      "references/native-delivery.md": "bbf22ba626778fa40891580418d16e38033231ca3c91339f82d479a6726ebb45",
+      "scripts/queue_closeout.mjs": "5b5c5279bd4f56fb0839d68f24c372b2c3f9f9bd68525f6b22df92fabe96662d"
+    },
+    "wechat-aup-control": {
+      "SKILL.md": "b17283a68b20afc041a4a1c290796801a3e75c138494afddd083a6b59bcbd4bd"
+    },
+    "wechat-write": {
+      "SKILL.md": "cf14da99c96358c3fc802df943149bd83138274c2165a4ebb6d6396fd0aaa6ab"
+    },
+    "wechat-local-read": {
+      "SKILL.md": "2c6155d8a3889be699070d886ed74f1ca1f4d94c733cbb2ac7d6660a7cedf225"
+    },
+    "notebook-secretary": {
+      "SKILL.md": "89a44d29f962dfb0e131b1df4f5ce36d1c99e4e5444a354125c7fa8622fb7675",
+      "agents/openai.yaml": "d449d5ad8a13a825fb1d4827a6c2fa370d72a0855d3a153822f7978b12a15e44",
+      "references/decisions.md": "33ae2f2c93fca1376ea1b4d2dc72f9663be06aa888869c705980f2d5f9607568",
+      "references/local-api.md": "4e097676dc8ae7a6850ea86e2191a0c7cde58fcf865d698816b96196474ba430",
+      "references/sources.md": "d9e2ac200ded9ae47c79b432a8ada5f0bd7cc91d0b374b69f881aba5f17d9452",
+      "references/user-context.md": "fb5729a8f38202af8e2f006525e6cb24ff6329b1576b17b81e0427ceb9c551b0",
+      "scripts/notebook_api.py": "b9b20f7e01360b0e6efa5da6b2d1ed4fa40ce4d41e34d43f653cc7611b025c24",
+      "scripts/test_notebook_api.py": "32976d5c6eb88c1354089317406153b475cf5915190bcf74a173733cc057af50"
+    }
+  },
+  "note": "Hashes identify source inputs, not public output. Public rewrites remove private bindings and historical business examples; MANIFEST.json seals the public payload."
+}

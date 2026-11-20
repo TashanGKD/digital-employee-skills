@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1200" viewBox="0 0 1800 1200">
+<rect x="0" y="0" width="1800" height="1200" rx="0" fill="#F8FBFB" stroke="none" stroke-width="2"/>
+<text x="45" y="61" font-family="Noto Sans SC" font-size="24" font-weight="700" fill="#4FA8AA" text-anchor="start">方案 C</text>
+<text x="45" y="111" font-family="Noto Sans SC" font-size="44" font-weight="700" fill="#163B3E" text-anchor="start">一件任务，从微信交办到结果闭环</text>
+<text x="1755" y="64" font-family="Noto Sans SC" font-size="23" font-weight="400" fill="#537174" text-anchor="end">消息入口在 AUP · 判断与编排在 Mac</text>
+<text x="1755" y="105" font-family="Noto Sans SC" font-size="24" font-weight="700" fill="#163B3E" text-anchor="end">@ / queued 只是中间状态；完成看真实结果</text>
+<rect x="40" y="145" width="300" height="940" rx="0" fill="#EDF4F4" stroke="none" stroke-width="2"/>
+<rect x="40" y="145" width="300" height="43" rx="0" fill="#4FA8AA" stroke="none" stroke-width="2"/>
+<text x="58" y="175" font-family="Noto Sans SC" font-size="26" font-weight="700" fill="#FFFFFF" text-anchor="start">人 / 讨论</text>
+<text x="58" y="215" font-family="Noto Sans SC" font-size="20" font-weight="400" fill="#537174" text-anchor="start">真实业务与结果使用者</text>
+<rect x="350" y="145" width="355" height="940" rx="0" fill="#EEF7F6" stroke="none" stroke-width="2"/>
+<rect x="350" y="145" width="355" height="43" rx="0" fill="#4FA8AA" stroke="none" stroke-width="2"/>
+<text x="368" y="175" font-family="Noto Sans SC" font-size="26" font-weight="700" fill="#FFFFFF" text-anchor="start">AUP 消息工具</text>
+<text x="368" y="215" font-family="Noto Sans SC" font-size="20" font-weight="400" fill="#537174" text-anchor="start">小号 · 读发 · 原生 @ 源</text>
+<rect x="715" y="145" width="590" height="940" rx="0" fill="#E7F3F2" stroke="none" stroke-width="2"/>
+<rect x="715" y="145" width="590" height="43" rx="0" fill="#4FA8AA" stroke="none" stroke-width="2"/>
+<text x="733" y="175" font-family="Noto Sans SC" font-size="26" font-weight="700" fill="#FFFFFF" text-anchor="start">Mac / 主责员工</text>
+<text x="733" y="215" font-family="Noto Sans SC" font-size="20" font-weight="400" fill="#537174" text-anchor="start">共同内核 · 大脑与编排</text>
+<rect x="1315" y="145" width="445" height="940" rx="0" fill="#EDF4F4" stroke="none" stroke-width="2"/>
+<rect x="1315" y="145" width="445" height="43" rx="0" fill="#4FA8AA" stroke="none" stroke-width="2"/>
+<text x="1333" y="175" font-family="Noto Sans SC" font-size="26" font-weight="700" fill="#FFFFFF" text-anchor="start">协作者 / 记事本</text>
+<text x="1333" y="215" font-family="Noto Sans SC" font-size="20" font-weight="400" fill="#537174" text-anchor="start">逻辑责任泳道；同在 Mac 对话</text>
+<polyline points="320,295 380,295" fill="none" stroke="#4FA8AA" stroke-width="3"/>
+<polygon points="380,295 369,289 369,301" fill="#4FA8AA"/>
+<polyline points="675,295 715,295 715,258 755,258" fill="none" stroke="#4FA8AA" stroke-width="3"/>
+<polygon points="755,258 744,252 744,264" fill="#4FA8AA"/>
+<polyline points="1010,303 1010,325" fill="none" stroke="#4FA8AA" stroke-width="3"/>
+<polygon points="1010,325 1004,314 1016,314" fill="#4FA8AA"/>
+<polyline points="1010,405 1010,450" fill="none" stroke="#4FA8AA" stroke-width="3"/>
+<polygon points="1010,450 1004,439 1016,439" fill="#4FA8AA"/>
+<polyline points="675,515 755,515" fill="none" stroke="#4FA8AA" stroke-width="3"/>
+<polygon points="755,515 744,509 744,521" fill="#4FA8AA"/>
+<polyline points="1265,510 1360,510" fill="none" stroke="#4FA8AA" stroke-width="3" stroke-dasharray="8 6"/>
+<polygon points="1360,510 1349,504 1349,516" fill="#4FA8AA"/>
+<polyline points="1538,625 1538,663 1295,663 1295,580 1240,580" fill="none" stroke="#4FA8AA" stroke-width="3" stroke-dasharray="8 6"/>
+<polygon points="1240,580 1251,574 1251,586" fill="#4FA8AA"/>
+<polyline points="1010,600 1010,690" fill="none" stroke="#4FA8AA" stroke-width="3"/>
+<polygon points="1010,690 1004,679 1016,679" fill="#4FA8AA"/>
+<polyline points="755,754 675,754" fill="none" stroke="#4FA8AA" stroke-width="3"/>
+<polygon points="675,754 686,748 686,760" fill="#4FA8AA"/>
+<polyline points="528,805 528,845" fill="none" stroke="#4FA8AA" stroke-width="3"/>
+<polygon points="528,845 522,834 534,834" fill="#4FA8AA"/>
+<polyline points="675,895 710,895 710,963 755,963" fill="none" stroke="#4FA8AA" stroke-width="3"/>
+<polygon points="755,963 744,957 744,969" fill="#4FA8AA"/>
+<polyline points="1010,830 1010,930" fill="none" stroke="#4FA8AA" stroke-width="3"/>
+<polygon points="1010,930 1004,919 1016,919" fill="#4FA8AA"/>
+<polyline points="1265,982 1360,982" fill="none" stroke="#4FA8AA" stroke-width="3"/>
+<polygon points="1360,982 1349,976 1349,988" fill="#4FA8AA"/>
+<polyline points="380,895 340,895 340,861 320,861" fill="none" stroke="#4FA8AA" stroke-width="3"/>
+<polygon points="320,861 331,855 331,867" fill="#4FA8AA"/>
+<rect x="70" y="245" width="250" height="142" rx="18" fill="#FFFFFF" stroke="#4FA8AA" stroke-width="2"/>
+<polygon points="95,387 95,405 119,387" fill="#FFFFFF" stroke="#4FA8AA" stroke-width="2"/>
+<text x="90" y="278" font-family="Noto Sans SC" font-size="26" font-weight="700" fill="#163B3E" text-anchor="start">01  真实交办</text>
+<text x="90" y="317" font-family="Noto Sans SC" font-size="21" font-weight="400" fill="#163B3E" text-anchor="start">本人或服务群提出任务</text>
+<text x="90" y="346" font-family="Noto Sans SC" font-size="21" font-weight="400" fill="#163B3E" text-anchor="start">原生 @ 是优先触发信号</text>
+<text x="90" y="375" font-family="Noto Sans SC" font-size="21" font-weight="400" fill="#163B3E" text-anchor="start">普通消息按职责理解</text>
+<rect x="380" y="245" width="295" height="142" rx="16" fill="#FFFFFF" stroke="#4FA8AA" stroke-width="2"/>
+<text x="400" y="279" font-family="Noto Sans SC" font-size="26" font-weight="700" fill="#163B3E" text-anchor="start">02  保留原生来源</text>
+<text x="400" y="317" font-family="Noto Sans SC" font-size="21" font-weight="400" fill="#163B3E" text-anchor="start">真实会话 / 发送人 / 消息</text>
+<text x="400" y="346" font-family="Noto Sans SC" font-size="21" font-weight="400" fill="#163B3E" text-anchor="start">原生 @ 事件交统一入口</text>
+<text x="400" y="375" font-family="Noto Sans SC" font-size="21" font-weight="400" fill="#163B3E" text-anchor="start">wechat-aup-control</text>
+<rect x="755" y="240" width="510" height="65" rx="12" fill="#FFFFFF" stroke="#4FA8AA" stroke-width="2"/>
+<text x="777" y="281" font-family="Noto Sans SC" font-size="24" font-weight="700" fill="#163B3E" text-anchor="start">03a  队列受理 · queued ≠ 接手</text>
+<rect x="755" y="325" width="510" height="80" rx="12" fill="#FFFFFF" stroke="#4FA8AA" stroke-width="2"/>
+<text x="777" y="358" font-family="Noto Sans SC" font-size="26" font-weight="700" fill="#163B3E" text-anchor="start">03b  原员工实际起回合</text>
+<text x="777" y="389" font-family="Noto Sans SC" font-size="21" font-weight="400" fill="#537174" text-anchor="start">忙时保留并合并；安全停顿后接续，不打断</text>
+<text x="1070" y="436" font-family="Noto Sans SC" font-size="21" font-weight="400" fill="#537174" text-anchor="start">统一唤醒 / 官方队列</text>
+<rect x="380" y="470" width="295" height="130" rx="16" fill="#FFFFFF" stroke="#4FA8AA" stroke-width="2"/>
+<text x="400" y="505" font-family="Noto Sans SC" font-size="25" font-weight="700" fill="#163B3E" text-anchor="start">沿原读位取完整资料</text>
+<text x="400" y="544" font-family="Noto Sans SC" font-size="21" font-weight="400" fill="#163B3E" text-anchor="start">正文、连续补充、引用</text>
+<text x="400" y="570" font-family="Noto Sans SC" font-size="21" font-weight="400" fill="#163B3E" text-anchor="start">附件实际取得并阅读</text>
+<text x="400" y="596" font-family="Noto Sans SC" font-size="21" font-weight="400" fill="#163B3E" text-anchor="start">wechat-aup-control</text>
+<rect x="755" y="465" width="510" height="135" rx="16" fill="#FFFFFF" stroke="#4FA8AA" stroke-width="2"/>
+<text x="777" y="503" font-family="Noto Sans SC" font-size="28" font-weight="700" fill="#163B3E" text-anchor="start">04  读清并承担结果</text>
+<text x="777" y="542" font-family="Noto Sans SC" font-size="22" font-weight="400" fill="#163B3E" text-anchor="start">理解完成条件，自行推进、排障和制作</text>
+<text x="777" y="569" font-family="Noto Sans SC" font-size="22" font-weight="400" fill="#163B3E" text-anchor="start">附件与产物要实看；不把占位当已读</text>
+<text x="777" y="596" font-family="Noto Sans SC" font-size="22" font-weight="400" fill="#163B3E" text-anchor="start">digital-employee</text>
+<rect x="1360" y="465" width="355" height="160" rx="16" fill="#FFFFFF" stroke="#4FA8AA" stroke-width="2"/>
+<text x="1380" y="501" font-family="Noto Sans SC" font-size="27" font-weight="700" fill="#163B3E" text-anchor="start">需要跨岗时协作</text>
+<text x="1380" y="539" font-family="Noto Sans SC" font-size="22" font-weight="400" fill="#163B3E" text-anchor="start">codex-thread-handoff</text>
+<text x="1380" y="569" font-family="Noto Sans SC" font-size="22" font-weight="400" fill="#163B3E" text-anchor="start">原协作者接回责任并产出</text>
+<text x="1380" y="599" font-family="Noto Sans SC" font-size="22" font-weight="400" fill="#163B3E" text-anchor="start">主责收回成果，实际查看验收</text>
+<text x="1308" y="493" font-family="Noto Sans SC" font-size="20" font-weight="400" fill="#537174" text-anchor="start">如需</text>
+<text x="1374" y="653" font-family="Noto Sans SC" font-size="20" font-weight="400" fill="#537174" text-anchor="start">回产物</text>
+<rect x="755" y="690" width="510" height="140" rx="16" fill="#FFFFFF" stroke="#4FA8AA" stroke-width="2"/>
+<text x="777" y="730" font-family="Noto Sans SC" font-size="28" font-weight="700" fill="#163B3E" text-anchor="start">05  按原任务交付结果</text>
+<text x="777" y="770" font-family="Noto Sans SC" font-size="21" font-weight="400" fill="#163B3E" text-anchor="start">需发微信：wechat-write → 原 SDK 提交</text>
+<text x="777" y="797" font-family="Noto Sans SC" font-size="21" font-weight="400" fill="#163B3E" text-anchor="start">同 request_id 用 get / get_many 核原单</text>
+<text x="777" y="824" font-family="Noto Sans SC" font-size="21" font-weight="400" fill="#163B3E" text-anchor="start">无需发微信：按原交付约定完成，不造发送</text>
+<rect x="380" y="690" width="295" height="115" rx="16" fill="#FFFFFF" stroke="#4FA8AA" stroke-width="2"/>
+<text x="400" y="728" font-family="Noto Sans SC" font-size="25" font-weight="700" fill="#163B3E" text-anchor="start">AUP 官方微信执行</text>
+<text x="400" y="765" font-family="Noto Sans SC" font-size="21" font-weight="400" fill="#163B3E" text-anchor="start">准确对象、原稿 / 原文件</text>
+<text x="400" y="793" font-family="Noto Sans SC" font-size="21" font-weight="400" fill="#163B3E" text-anchor="start">程序核验与原生操作</text>
+<rect x="380" y="845" width="295" height="105" rx="16" fill="#FFFFFF" stroke="#4FA8AA" stroke-width="2"/>
+<text x="400" y="881" font-family="Noto Sans SC" font-size="24" font-weight="700" fill="#163B3E" text-anchor="start">核同一交付原生回执</text>
+<text x="400" y="918" font-family="Noto Sans SC" font-size="20" font-weight="400" fill="#163B3E" text-anchor="start">sent / succeeded / done</text>
+<text x="400" y="943" font-family="Noto Sans SC" font-size="20" font-weight="400" fill="#163B3E" text-anchor="start">且有原生证据，才记已发</text>
+<polygon points="527,969 555,992 527,1015 499,992" fill="#D6E8E8" stroke="#4FA8AA" stroke-width="2"/>
+<text x="527" y="999" font-family="Noto Sans SC" font-size="23" font-weight="700" fill="#163B3E" text-anchor="middle">?</text>
+<polyline points="527,950 527,969" fill="none" stroke="#4FA8AA" stroke-width="3" stroke-dasharray="8 6"/>
+<polygon points="527,969 521,958 533,958" fill="#4FA8AA"/>
+<polyline points="499,992 370,992 370,897 380,897" fill="none" stroke="#4FA8AA" stroke-width="3" stroke-dasharray="8 6"/>
+<polygon points="380,897 369,891 369,903" fill="#4FA8AA"/>
+<text x="570" y="989" font-family="Noto Sans SC" font-size="20" font-weight="700" fill="#163B3E" text-anchor="start">unknown</text>
+<text x="570" y="1017" font-family="Noto Sans SC" font-size="19" font-weight="400" fill="#537174" text-anchor="start">只核原 ID</text>
+<text x="402" y="1050" font-family="Noto Sans SC" font-size="20" font-weight="400" fill="#163B3E" text-anchor="start">不换 ID、不重复点击、不重发</text>
+<path d="M755 948 C755 924 1265 924 1265 948 L1265 1020 C1265 1044 755 1044 755 1020 Z" fill="#E4F3F2" stroke="#4FA8AA" stroke-width="2"/>
+<ellipse cx="1010.0" cy="948" rx="255.0" ry="18" fill="#F7FBFB" stroke="#4FA8AA" stroke-width="2"/>
+<text x="779" y="997" font-family="Noto Sans SC" font-size="25" font-weight="700" fill="#163B3E" text-anchor="start">06  员工自己的工作本</text>
+<text x="779" y="1026" font-family="Noto Sans SC" font-size="21" font-weight="400" fill="#163B3E" text-anchor="start">workbook 记判断与依据 → CURRENT 汇总</text>
+<path d="M1360 948 C1360 924 1715 924 1715 948 L1715 1020 C1715 1044 1360 1044 1360 1020 Z" fill="#E4F3F2" stroke="#4FA8AA" stroke-width="2"/>
+<ellipse cx="1537.5" cy="948" rx="177.5" ry="18" fill="#F7FBFB" stroke="#4FA8AA" stroke-width="2"/>
+<text x="1384" y="997" font-family="Noto Sans SC" font-size="25" font-weight="700" fill="#163B3E" text-anchor="start">组织记事本</text>
+<text x="1384" y="1026" font-family="Noto Sans SC" font-size="21" font-weight="400" fill="#163B3E" text-anchor="start">组织本维护员工负责更新</text>
+<text x="1362" y="906" font-family="Noto Sans SC" font-size="22" font-weight="700" fill="#4FA8AA" text-anchor="start">notebook-secretary</text>
+<rect x="70" y="838" width="250" height="46" rx="6" fill="#FFFFFF" stroke="#D6E8E8" stroke-width="2"/>
+<text x="90" y="870" font-family="Noto Sans SC" font-size="21" font-weight="700" fill="#163B3E" text-anchor="start">微信已发出 · 有据</text>
+<rect x="90" y="895" width="230" height="46" rx="6" fill="#FFFFFF" stroke="#D6E8E8" stroke-width="2"/>
+<text x="108" y="927" font-family="Noto Sans SC" font-size="21" font-weight="700" fill="#163B3E" text-anchor="start">本人已读 · 另核</text>
+<rect x="110" y="952" width="210" height="46" rx="6" fill="#FFFFFF" stroke="#D6E8E8" stroke-width="2"/>
+<text x="128" y="984" font-family="Noto Sans SC" font-size="21" font-weight="700" fill="#163B3E" text-anchor="start">业务采纳 · 另核</text>
+<text x="70" y="1027" font-family="Noto Sans SC" font-size="21" font-weight="400" fill="#537174" text-anchor="start">这三层不能相互代替</text>
+<line x1="75" y1="510" x2="75" y2="685" stroke="#4FA8AA" stroke-width="4"/>
+<text x="94" y="535" font-family="Noto Sans SC" font-size="20" font-weight="400" fill="#163B3E" text-anchor="start">故障先自救</text>
+<text x="94" y="563" font-family="Noto Sans SC" font-size="20" font-weight="400" fill="#163B3E" text-anchor="start">查原入口 / 合法备用路径</text>
+<text x="94" y="591" font-family="Noto Sans SC" font-size="20" font-weight="400" fill="#163B3E" text-anchor="start">继续独立可做的工作</text>
+<text x="94" y="619" font-family="Noto Sans SC" font-size="20" font-weight="400" fill="#163B3E" text-anchor="start">真实外部阻塞记清：</text>
+<text x="94" y="647" font-family="Noto Sans SC" font-size="20" font-weight="400" fill="#163B3E" text-anchor="start">负责人 + 缺少条件</text>
+<text x="94" y="675" font-family="Noto Sans SC" font-size="20" font-weight="400" fill="#163B3E" text-anchor="start">+ 何时 / 何种条件复看</text>
+<line x1="45" y1="1107" x2="1755" y2="1107" stroke="#D6E8E8" stroke-width="2"/>
+<text x="45" y="1142" font-family="Noto Sans SC" font-size="21" font-weight="400" fill="#537174" text-anchor="start">实线：主要承接与交付    虚线：条件协作 / 原单核查    圆柱：留有来源的工作记录</text>
+<text x="45" y="1177" font-family="Noto Sans SC" font-size="21" font-weight="400" fill="#537174" text-anchor="start">流程示意｜2026-11-20；每段需真实证据，图不代替运行验收</text>
+<text x="1755" y="1142" font-family="Noto Sans SC" font-size="21" font-weight="400" fill="#537174" text-anchor="end">人事 / 监控可旁侧复核</text>
+<text x="1755" y="1177" font-family="Noto Sans SC" font-size="21" font-weight="400" fill="#537174" text-anchor="end">不作为每件业务的必经审批</text>
+</svg>

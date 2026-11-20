@@ -1,0 +1,4 @@
+#!/bin/sh
+set -eu
+python3 scripts/check_publication.py
+sh scripts/check_publication.self-test.sh

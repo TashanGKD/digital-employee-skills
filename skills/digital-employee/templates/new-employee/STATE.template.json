@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "identity": {
+    "thread_id": "{{thread_id}}",
+    "project_root": "{{project_root}}"
+  },
+  "channels": {},
+  "source_checkpoints": {},
+  "receipts": {
+    "system_onboarding": [],
+    "deliveries": []
+  }
+}

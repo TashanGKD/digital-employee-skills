@@ -1,0 +1,4 @@
+interface:
+  display_name: "数字员工"
+  short_description: "让已有对话建立岗位、工作记忆与协作入口，并持续承担已授权工作"
+  default_prompt: "使用 $digital-employee，让当前对话建立并实际运行适合本任务的数字员工岗位。"

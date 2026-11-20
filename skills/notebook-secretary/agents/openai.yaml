@@ -1,0 +1,4 @@
+interface:
+  display_name: "共同记事本秘书"
+  short_description: "增量更新待办与实际工作记录，按日周月整理结果，保留人工批注、历史和依据"
+  default_prompt: "使用 $notebook-secretary 更新。"
